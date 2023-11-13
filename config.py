@@ -1,5 +1,7 @@
 import pygame
 
+# Dire: appears to be Python 3 compliant without changes
+
 WIDTH = 320
 HEIGHT = 240
 
