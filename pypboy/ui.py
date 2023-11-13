@@ -3,6 +3,7 @@ import config
 import pygame
 import datetime
 
+# Dire: appears to be Python 3 compliant without changes
 
 class Header(game.Entity):
 
