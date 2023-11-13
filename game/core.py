@@ -1,6 +1,8 @@
 import pygame
 import time
 
+# Dire: appears to be Python 3 compliant without changes
+
 class Engine(object):
 
 	EVENTS_UPDATE = pygame.USEREVENT + 1
