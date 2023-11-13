@@ -3,6 +3,8 @@ import config
 
 from pypboy.modules.data import entities
 
+# Dire: appears to be Python 3 compliant without changes
+
 class Module(pypboy.SubModule):
 
 	label = "Radio"
