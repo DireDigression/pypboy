@@ -5,6 +5,7 @@ from pypboy.modules.data import quests
 from pypboy.modules.data import misc
 from pypboy.modules.data import radio
 
+# Dire: appears to be Python 3 compliant without changes
 
 class Module(BaseModule):
 
