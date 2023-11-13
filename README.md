@@ -3,7 +3,7 @@ So how about that Fallout game? Is that thing still relevant? What about Python 
 
 Probably not, since end-of-life apparently happened in 2020. So my goal here is to successfully update the code for Python 3, as well as adding functionality for my specific design that includes a 4.3 inch Waveshare HDMI LCD resistive touch screen and additional functional buttons and switches. And the original code's description specifies a 3000 model, so I'm going to try to make sure the imagery also matches the 3000 Mark IV design of FO4.
 
-**2030 Update:** ChatGPT is a blessing.
+**2023 Update:** ChatGPT is a blessing.
 
 
 
