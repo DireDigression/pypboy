@@ -5,6 +5,7 @@ from pypboy.modules.items import aid
 from pypboy.modules.items import misc
 from pypboy.modules.items import ammo
 
+# Dire: appears to be Python 3 compliant without changes
 
 class Module(BaseModule):
 
